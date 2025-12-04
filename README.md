@@ -48,7 +48,7 @@ Database `diecast_shop` terdiri dari 4 tabel utama dengan struktur atribut sebag
 Berikut adalah alur eksekusi program ketika dijalankan oleh pengguna:
 
 1.  **Request Masuk:** Pengguna membuka URL, contoh: `index.php?mod=product&act=form`.
-2.  **Routing (`index.php`):** * Parameter `mod` menentukan entitas (Brand, Series, Product, atau Customer).
+2.  **Routing (`index.php`):** Parameter `mod` menentukan entitas (Brand, Series, Product, atau Customer).
     * Parameter `act` menentukan aksi (index/list, form/add/edit, atau delete).
 3.  **Inisialisasi ViewModel:** Router memanggil ViewModel yang sesuai (misal: `ProductViewModel`).
 4.  **Logika ViewModel:**
