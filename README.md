@@ -57,5 +57,5 @@ Berikut adalah alur eksekusi program ketika dijalankan oleh pengguna:
 5.  **Eksekusi Model:** Model menjalankan query SQL ke database `diecast_shop`.
 6.  **Tampilan (View):** Hasil akhir ditampilkan ke pengguna menggunakan template (`header.php`, `navigation.php`, `footer.php`).
 
-## 5. Dokumentasi
+## 4. Dokumentasi
 https://github.com/user-attachments/assets/4d9644b3-3b58-44f8-9322-b2b7b19fd0a4
